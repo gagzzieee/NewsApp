@@ -1,0 +1,14 @@
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\obj\Debug\net8.0\News.DAL.csproj.AssemblyReference.cache
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\obj\Debug\net8.0\News.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\obj\Debug\net8.0\News.DAL.AssemblyInfoInputs.cache
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\obj\Debug\net8.0\News.DAL.AssemblyInfo.cs
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\obj\Debug\net8.0\News.DAL.csproj.CoreCompileInputs.cache
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\bin\Debug\net8.0\News.DAL.deps.json
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\bin\Debug\net8.0\News.DAL.runtimeconfig.json
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\bin\Debug\net8.0\News.DAL.dll
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\bin\Debug\net8.0\News.DAL.pdb
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\obj\Debug\net8.0\News.DAL.dll
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\obj\Debug\net8.0\refint\News.DAL.dll
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\obj\Debug\net8.0\News.DAL.pdb
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\obj\Debug\net8.0\News.DAL.genruntimeconfig.cache
+D:\DS Project\NewsApp\API\NewsApi\News.DAL\obj\Debug\net8.0\ref\News.DAL.dll

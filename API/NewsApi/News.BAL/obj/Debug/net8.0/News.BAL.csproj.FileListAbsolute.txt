@@ -1,0 +1,17 @@
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\News.BAL.csproj.AssemblyReference.cache
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\News.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\News.BAL.AssemblyInfoInputs.cache
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\News.BAL.AssemblyInfo.cs
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\News.BAL.csproj.CoreCompileInputs.cache
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\bin\Debug\net8.0\News.BAL.deps.json
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\bin\Debug\net8.0\News.BAL.runtimeconfig.json
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\bin\Debug\net8.0\News.BAL.dll
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\bin\Debug\net8.0\News.BAL.pdb
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\bin\Debug\net8.0\News.DAL.dll
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\bin\Debug\net8.0\News.DAL.pdb
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\News.BAL.csproj.Up2Date
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\News.BAL.dll
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\refint\News.BAL.dll
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\News.BAL.pdb
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\News.BAL.genruntimeconfig.cache
+D:\DS Project\NewsApp\API\NewsApi\News.BAL\obj\Debug\net8.0\ref\News.BAL.dll
